@@ -18,4 +18,4 @@
 
 平台还鼓励用户进行互动，您可以与其他影迷分享影片、发表评论、评分并参与投票活动。与其他影迷一起讨论和推荐好片是我们平台的一大亮点。
 
-<span style="display:none;">[Canonical link]( )</span>
+<span style="display:none;">[Canonical link](https://github.com/fkt20250711/fkt18 )</span>
